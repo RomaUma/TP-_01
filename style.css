@@ -1,0 +1,49 @@
+body {
+    font-family: Georgia;
+    background-color: #c6ffb3;
+    color: #0000ff;
+    font-size: 16px;
+}
+
+#datoslibro {
+    
+}
+
+#descripcion {
+    font-weight: normal;
+    font-size: 16px;
+    color: #0000f;
+}
+
+#contenido {
+    
+}
+
+h1 {
+    font-family: Verdana;
+    color: hsl(0, 100%, 51%);
+    font-size: 32px;
+}
+
+h2 {
+    color: rgb(169, 4, 4);
+    font-size: 24px;
+}
+
+.verde{
+    color: #006600;
+}
+
+.resaltar {
+    font-size: 20px;
+    background-color: #000000;
+    color: hsla(180, 100%, 97%, 0.924);
+    font-style: italic;
+}
+.sustantivos {
+    font-size: 20px;
+    font-weight: bold;
+}
+strong {
+
+}
